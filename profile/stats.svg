@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Estad&#237;sticas de GitHub de Michel Massaad, Rank: C+</title>
-        <desc id="descId">Estrellas totales: 0, Commits totales  (El a&#241;o pasado) : 354, PRs totales: 9, Issues totales: 0, Contribuciones en (el a&#241;o pasado): 0</desc>
+        <title id="titleId">Estad&#237;sticas de GitHub de Michel Massaad, Rank: C</title>
+        <desc id="descId">Estrellas totales: 0, Commits totales  (El a&#241;o pasado) : 302, PRs totales: 9, Issues totales: 0, Contribuciones en (el a&#241;o pasado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 217.7670092585229;
+        stroke-dashoffset: 220.2014663643629;
       }
     }
   
@@ -150,7 +150,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C+
+          C
         </text>
       
         </g>
@@ -184,7 +184,7 @@
         x="274.01"
         y="12.5"
         data-testid="commits"
-      >354</text>
+      >302</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
